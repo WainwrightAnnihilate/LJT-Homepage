@@ -54,17 +54,17 @@ A publication-index view is also available on the [Publications]({{ base_path }}
    <br>Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
    <br>GitHub code repository: `Vision4Chart`.
 
-3. **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — First author.
+3. **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024 — Conference on Empirical Methods in Natural Language Processing) — First author.
    <br>Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He.
    <br>GitHub code repository: `Universal_Truthfulness_Hyperplane`.
 
-4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024) — Co-author.
+4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024 — International Conference on Machine Learning) — Co-author.
    <br>Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
 
-5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) — Co-author.
+5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023 — Neural Information Processing Systems) — Co-author.
    <br>Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 
-6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) — Co-author.
+6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023 — Neural Information Processing Systems) — Co-author.
    <br>Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
 ## Contact
